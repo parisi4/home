@@ -1,0 +1,47 @@
+h1
+{
+	text-align: center;
+	font-size: 40pt;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	color: white;
+}
+
+h2
+{
+	text-align: center;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+h3
+{
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	font-size: 8pt;
+}
+
+h5
+{
+	text-align: center;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+h6
+{
+	font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+body
+{
+	text-align: justify;
+	font-size: 10pt;
+	line-height: 14pt;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	background-color: black;
+	color: white;
+}
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

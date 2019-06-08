@@ -1,0 +1,38 @@
+h1
+{
+	text-align: center;
+	font-size: 40pt;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	color: white;
+}
+
+h2
+{
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 15pt;
+}
+
+ol
+{
+	width: 30%;
+	margin: auto;
+}
+	
+body
+{
+	text-align: justify;
+	font-size: 10pt;
+	line-height: 14pt;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	background-color: black;
+	color: white;
+}
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
