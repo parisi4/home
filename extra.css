@@ -14,9 +14,14 @@ h2
 	font-size: 15pt;
 }
 
+h3
+{
+	text-align: center;
+}
+
 ol
 {
-	width: 30%;
+	width: 12%;
 	margin: auto;
 }
 	
@@ -28,6 +33,11 @@ body
 	font-family: Verdana, "Arial Narrow", sans-serif;
 	background-color: black;
 	color: white;
+}
+
+p
+{
+	text-align: center;
 }
 
 img
